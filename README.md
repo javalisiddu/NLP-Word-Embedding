@@ -5,7 +5,7 @@ Word Embedding Techniques
 ***********************************************************************
 Bag of words:
 
-* From the text corpus, create a set of all unique words. Let's assume there are d number of unique words. Assign a number to each unique words and then 
+From the text corpus, create a set of all unique words. Let's assume there are d number of unique words. Assign a number to each unique words and then 
 create word vectors.
 
 Let's take two simple documents and convert them into a vectos of d dimensios. Remember, each word represents a dimension.
